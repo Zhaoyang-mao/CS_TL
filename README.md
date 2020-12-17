@@ -1,6 +1,5 @@
 <p align="center">
   <br><strong>一种基于迁移学习的感知矩阵优化方法</strong> 
-  <br>毛朝阳，李岚，魏伟
 </p>
 
 ## 描述
